@@ -1,2 +1,2 @@
-# simple-linear-regression
-Implementation of simple linear regression
+# multiple-linear-regression
+Implementation of multiple linear regression
